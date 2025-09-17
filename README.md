@@ -60,7 +60,7 @@ No external libraries required (uses only built-in random).
 
 Clone this repository:
 
-git clone https://github.com/your-username/slot-machine-game.git
+git clone https://github.com/Ajay-hb/Command-Line-Slot-Machine-Game)
 cd slot-machine-game
 
 
